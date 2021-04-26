@@ -9,7 +9,7 @@ A: We will consider this suggestion.
 A: It is 30W.
 
 ### Q:What are the specifications of adapter interface?
-A: The specification of the adapter interface is 5.5 mm x 2.5mm, with DC 15V.
+A: The specification of the adapter interface is 5.5 mm x 2.1mm, with DC 15V.
 
 ### Q:Would it be possible to release the case as STL files so it can be modded by the community?
 A: Sorry, the STL files are not public.
@@ -48,5 +48,5 @@ This is because the built-in six-axis sensor is not calibrated
     2. Back to the front of raspad3,Spin from top to bottom
         ![avatar](img/RasPad3_FAQ_2.png)
     3. Back to the front of raspad3,Press "Ctrl + C" to end the script
-5. Finally, enter the command "sudo raspi-config" and restart raspad3
+5. Finally, enter the command "sudo raspi-config" and restart raspad3   
 

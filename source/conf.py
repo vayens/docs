@@ -52,7 +52,7 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 import sphinx_rtd_theme
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'furo'
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 from recommonmark.parser import CommonMarkParser
@@ -61,3 +61,11 @@ source_parsers = {
     '.md':CommonMarkParser,
 }
 source_suffix = ['.rst','.md']
+
+html_js_files = [
+    'https://ezblock.cc/readDocFile/topHead.js',
+]
+html_css_files = [
+    'https://ezblock.cc/readDocFile/topHead.css',
+]
+

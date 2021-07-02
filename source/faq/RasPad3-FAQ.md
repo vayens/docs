@@ -48,5 +48,5 @@ This is because the built-in six-axis sensor is not calibrated
     2. Back to the front of raspad3,Spin from top to bottom
         ![avatar](img/RasPad3_FAQ_2.png)
     3. Back to the front of raspad3,Press "Ctrl + C" to end the script
-5. Finally, enter the command "sudo raspi-config" and restart raspad3   
+5. Finally, enter the command "sudo reboot" and restart raspad3   
 

@@ -22,7 +22,7 @@ A: Above 16GB.
 
 ### Q: Does this RasPad support Ezblock APP?
 A: Please use an Ezblock Bluetooth Doungle to connect to Bluetooth if your hardware products cannot use Ezblock APP directly. Ezblock APP cannot control the inner RPi board of RasPad but the outer RPi board.
-
+### Q; Can a Raspberry pi 3 be used in the Raspad 3 if you change the micro hdmi cable to a Micro hdm to hdmi Cable?
 
 ###  Notice
 1. Before screwing the Raspberry Pi 4, install the SD card expansion plate. 
